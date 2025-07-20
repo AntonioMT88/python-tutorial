@@ -8,7 +8,7 @@ else:
     print("Your number is odd")
 
 # elif example
-x = int(input("\n3Insert a number greater than 0:"))
+x = int(input("\nInsert a number greater than 0:"))
 if x == 0:
     print("Invalid value!")
 elif x > 0:

@@ -3,6 +3,7 @@ Welcome to the Python Tutorial repository! This repo is designed to provide prac
 # Table of Contents
 - base_sintax.py is based on [this](https://www.throughdev.com/2024/09/14/python-basic-syntax/) article. 
 - operators are based on [this](https://www.throughdev.com/2024/10/26/operators-python-arithmetic-comparison-logical/) article.
-- loops and conditions are based on [this]() article.
+- loops and conditions are based on [this](https://www.throughdev.com/2024/10/26/operators-python-arithmetic-comparison-logical/) article.
+- operators are based on [this](https://www.throughdev.com/2025/07/20/function-in-python/) article.
 # Contributions
 If you'd like to contribute improvements or corrections, feel free to submit a pull request. I welcome suggestions and contributions!
